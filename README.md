@@ -48,6 +48,7 @@ The data model used in this report was custom-built to streamline the relationsh
 **Fact Table**:
 
 - **OrderDetail (Fact)**: Contains transactional details such as order date, product, freight, and order quantities.
+  
 **Dimension Tables**:
 
 - **Territory_Dim**: Stores information about different sales territories, including costs and sales data.
